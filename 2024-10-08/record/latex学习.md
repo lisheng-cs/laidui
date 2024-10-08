@@ -1,4 +1,12 @@
-$\dot{a}, \ddot{a}, \acute{a}, \grave{a}$
+<!--
+ * @Descripttion: 
+ * @Author: laidui
+ * @version: 
+ * @Date: 2024-10-08 12:02:23
+ * @LastEditors: lai dui
+ * @LastEditTime: 2024-10-08 12:08:33
+  -->
+  $\dot{a}, \ddot{a}, \acute{a}, \grave{a}$
 
 $exp_a^b = a^b$
 
@@ -36,9 +44,7 @@ $a_{i, j}$
 
 $\overbrace{1+2+\cdots+100}$
 
+$\lim_{x\to\infty} {\frac{1}{n(n+1)}}$
 
-
-
-
-
+$\left\vert s \right\vert$
 
