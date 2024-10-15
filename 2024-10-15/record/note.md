@@ -14,7 +14,7 @@
 
 # 数据集介绍(PASCAL VOC)
 
-PASCAL VOC(the pascal visual object classes)是一个世界级的计算机视觉挑战赛
+PASCAL VOC(the pascal visual object classes)是一个世界级的计算机视觉挑战赛.
 
 ![1728955047174](image/note/1728955047174.png)
 
