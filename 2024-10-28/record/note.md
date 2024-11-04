@@ -17,3 +17,12 @@
 $qi(a0) = {\frac{r_1^0+r_2^0+...r_k^0}{k}}$
 
 上述公式的缺点在于每一次都需要重新累加并保存之前的信息
+
+## **ε−贪心算法（ε-greedy）**
+
+
+
+## **最大置信区间上界算法（Upper Confidence Bound）**
+
+
+## **Softmax-贪心算法（Softmax-greedy）/ 梯度赌博算法（Gradient Bandit Algorithms）**
