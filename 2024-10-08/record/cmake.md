@@ -14,6 +14,8 @@
    * cmake --build build
    * 执行生成的exe文件
 2. Window下使用CMake构建项目
+
+   ![1730702523941](image/cmake/1730702523941.png)
 3. Linux下使用CMake构建项目
 
 ---
