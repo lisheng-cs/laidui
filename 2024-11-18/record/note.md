@@ -18,8 +18,26 @@ print(ret.send("he"))  # 修改为 ret.send("he")
 
 # Python装饰器
 
+```python
+def calculate(f):
+    def inner(*args, **kwargs):
+        start_time = time.time()
+        ret = f(*args, **kwargs)
+        end_time = time.time()
+        print(end_time-start_time)
+        return ret
+    return inner
 
-# Python的位置参数和关键字参数
+@calculate
+def cnt(x:int):
+    sum = 0
+    for i in range(x):
+        sum += i
+    return sum
+print(cnt(1000000000))
+```
+
+![1731904845122](image/note/1731904845122.png)Python的位置参数和关键字参数
 
 在Python中，函数参数可以分为两种类型：位置参数和关键字参数。
 
